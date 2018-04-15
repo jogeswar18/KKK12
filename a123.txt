@@ -3,7 +3,7 @@ public class a123
 public static void main(String args[])
 {
 a=1;
-b=12;
+b=112;
 c=a+b;
 system.out.println(c);
 }
